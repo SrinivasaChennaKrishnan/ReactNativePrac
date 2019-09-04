@@ -1,2 +1,0 @@
-# ReactNativePrac
-Created with CodeSandbox
